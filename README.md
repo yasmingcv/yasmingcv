@@ -3,10 +3,14 @@
 
 Atualmente estou no 2º semestre de desenvolvimento de sistemas no SENAI Jandira.
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingcv&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
-</div>
+- Disponível para trabalhar
+- E-mail para contato: yasmingoncalves5421@gmail.com
+
+
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingcv&show_icons=true&theme=tokyonight"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
+
 
 ### 📲 Let's get connected:
 
