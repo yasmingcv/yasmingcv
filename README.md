@@ -1,8 +1,6 @@
 ### ✨ Olá, sou Yasmin Gonçalves! 
 ---
 
-Atualmente estou no 2º semestre de desenvolvimento de sistemas no SENAI Jandira.
-
 - Disponível para trabalhar
 - E-mail para contato: yasmingoncalves5421@gmail.com
 
