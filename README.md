@@ -5,12 +5,6 @@
  Disponível para trabalhar.<br>
  E-mail para contato: yasmingoncalves5421@gmail.com
 
-
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingcv&show_icons=true&theme=tokyonight"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
-
-
 ### 📲 Let's get connected:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmingcv/)
@@ -35,6 +29,25 @@
 
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
+
+###
+###
+
+<div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingcv&show_icons=true&theme=tokyonight"/>
+
+###
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
+
+###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasmingcv&theme=tokyonight)](https://git.io/streak-stats)
+ 
+</div>
+
+
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
