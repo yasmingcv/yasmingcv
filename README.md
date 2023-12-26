@@ -1,6 +1,6 @@
 <div align="center">
-✨ Olá, sou Yasmin Gonçalves! 
-
+ 
+# ✨ Olá, sou Yasmin Gonçalves! 
 
  Disponível para trabalhar.<br>
  E-mail para contato: yasmingoncalves5421@gmail.com
@@ -14,8 +14,6 @@
 ### 🛠️ Technologies and tools I use:
 
 <div>
-
-
 
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -31,23 +29,21 @@
 </div>
 
 ###
-###
 
 <div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
+
+###
+ 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmingcv&show_icons=true&theme=tokyonight"/>
 
 ###
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmingcv&layout=compact&theme=tokyonight"/>
 
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasmingcv&theme=tokyonight)](https://git.io/streak-stats)
  
 </div>
-
-
-
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
