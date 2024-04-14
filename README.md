@@ -1,9 +1,13 @@
 <div align="center">
  
-# ✨ Olá, sou Yasmin Gonçalves! 
+# Hello, I'm Yasmin Gonçalves! 🇧🇷 
 
- Disponível para trabalhar.<br>
- E-mail para contato: yasmingoncalves5421@gmail.com
+ Open to work.<br>
+ E-mail: yasmingoncalves5421@gmail.com
+
+Technical course in Systems Development - SENAI ✅
+
+Bachelor's degree in Software Engineering - FIAP (1/8)
 
 ### 📲 Let's get connected:
 
@@ -23,7 +27,7 @@
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
