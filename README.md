@@ -2,12 +2,13 @@
  
 # Hello, I'm Yasmin Gonçalves! 🇧🇷 
 
- Open to work.<br>
- E-mail: yasmingoncalves5421@gmail.com
+E-mail: yasmingoncalves5421@gmail.com
 
 Technical course in Systems Development - SENAI ✅
 
 Bachelor's degree in Software Engineering - FIAP (1/8)
+
+Web Development Intern - OKN 
 
 ### 📲 Let's get connected:
 
@@ -21,6 +22,7 @@ Bachelor's degree in Software Engineering - FIAP (1/8)
 
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
