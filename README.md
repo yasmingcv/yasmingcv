@@ -6,7 +6,7 @@ E-mail: yasmingoncalves5421@gmail.com
 
 Technical course in Systems Development - SENAI ✅
 
-Bachelor's degree in Software Engineering - FIAP (2/8)
+Bachelor's degree in Software Engineering - FIAP (3/8)
 
 Web Development Intern - OKN 
 
